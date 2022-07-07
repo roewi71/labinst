@@ -1,2 +1,6 @@
 Hello, this is a test.
 line 2 of test
+
+![challenge-title]: "How to get started with Questionmark OnDemand"
+
+You are a new Questionmark employee. You need to create a basic maths assessment. That includes: 3 assessment blocks, the first of which is an introduction. The other two assessment blocks will have 5 questions each. There will be questions about two topics: arithmetic and about geometry. You will have to include a topic report at the end of the test and pass vs. fail scores.
